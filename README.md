@@ -120,8 +120,8 @@ IPL outcomes are influenced by batting consistency, bowling strength, rivalry hi
 
 ## 👤 Student Details
 
-Name: Your Name  
-Student ID: Your Student ID  
+Name: Jwal Kiranbhai Patel 
+Student ID: 2013409  
 CRS: Artificial Intelligence  
 Course: The Art of Storytelling with Data  
-School: Your School Name  
+School: Udgam School For Children  
